@@ -1,16 +1,17 @@
-### Hi there 👋
+### Olá! Eu sou o Demétrio
 
-<!--
-**DevDemetrio/devdemetrio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌱 Hoje trabalho com Front-end Web
+- 🧑‍💼 Sou Desenvolvedor Autônomo
+- 📖 Para me aprimorar estou fazer cursos na Alura e lendo dois livros:<br>
+     -Web Design Responsivo  <br>
+     -Fundamentos de HTML5 e CSS3
+- 📫 E-mail: devdemetrio@gmail.com  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<div align="center">
+  <a href="https://github.com/DevDemetrio">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevDemetrio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDemetrio&layout=compact&langs_count=7&theme=dracula"/>
+</div>
