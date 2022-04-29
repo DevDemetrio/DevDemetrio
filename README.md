@@ -12,6 +12,6 @@
 
 <div align="center">
   <a href="https://github.com/DevDemetrio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevDemetrio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDemetrio&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=DevDemetrio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDemetrio&layout=compact&langs_count=7&theme=dracula"/>
 </div>
