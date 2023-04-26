@@ -1,12 +1,12 @@
 ### Olá! Eu sou o Demétrio
 
+    🌱 Hoje trabalho com Front-end Web
+    🧑‍💼 Sou Desenvolvedor Autônomo
+    📫 E-mail: devdemetrio@gmail.com
 
-- 🌱 Hoje trabalho com Front-end Web
-- 🧑‍💼 Sou Desenvolvedor Autônomo
-- 📖 Para me aprimorar estou fazer cursos na Alura e lendo dois livros:<br>
-     -Web Design Responsivo  <br>
-     -Fundamentos de HTML5 e CSS3
-- 📫 E-mail: devdemetrio@gmail.com  
+Tenho Bacharel em Sistemas de Informação e experiência em desenvolvimento utilizando as tecnologias React, JavaScript, CSS e HTML. Estou sempre me aprimorando para criar soluções digitais de qualidade com uma experiência de usuário excepcional.
+
+Entre em contato comigo pelo e-mail acima e vamos conversar sobre como podemos trabalhar juntos para tornar suas ideias em realidade! E não se esqueça de conferir meu perfil no Github para ver meus projetos e contribuições.
 
 
 ##
