@@ -6,7 +6,7 @@
 
 Tenho Bacharel em Sistemas de Informação e experiência em desenvolvimento utilizando as tecnologias React, JavaScript, CSS e HTML. Estou sempre me aprimorando para criar soluções digitais de qualidade com uma experiência de usuário excepcional.
 
-Entre em contato comigo pelo e-mail acima e vamos conversar sobre como podemos trabalhar juntos para tornar suas ideias em realidade! E não se esqueça de conferir meu perfil no Github para ver meus projetos e contribuições.
+Entre em contato comigo pelo e-mail acima e vamos conversar sobre como podemos trabalhar juntos para tornar suas ideias em realidade! E não se esqueça de conferir meus projetos e contribuições.
 
 
 ##
