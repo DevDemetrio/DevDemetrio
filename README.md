@@ -34,7 +34,7 @@ Minha motivação é impulsionada pela inovação e pela busca constante de apri
 
 
 <p align="left">
-  <a href="#" title="Gmail">
+  <a href="devdemetrio@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
 
   <a href="https://www.linkedin.com/in/demetrio-nascimento/" title="LinkedIn">
