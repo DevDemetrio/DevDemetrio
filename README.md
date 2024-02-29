@@ -18,7 +18,7 @@ Minha motivação é impulsionada pela inovação e pela busca constante de apri
 
 
 
-| Tecnologia               | Uso                   |
+| Tecnologia               |                       |
 |--------------------------|-----------------------|
 | HTML5                    |                       |
 | CSS3                     |                       |
