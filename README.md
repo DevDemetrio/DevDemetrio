@@ -27,9 +27,12 @@ Minha motivação é impulsionada pela inovação e pela busca constante de apri
 | Web Semântica            |                       |
 | React.js                 |                       |
 | JavaScript               |                       |
+| TypeScript               | Experiência em curso  |
 | API Rest                 |                       |
 | Banco de Dados           | SQL Server            |
-| Sistemas Operacionais    | Windows e Linux        |
+| Sistemas Operacionais    | Windows e Linux       |
+| Docker                   | Experiência em curso  |
+
 
 
 
