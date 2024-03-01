@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
-   Sou Desenvolvedor Front-end apaixonado por transformar ideias em realidade por meio de código. Minha jornada profissional tem sido marcada por desafios que encontro em comunidades de front-end e projetos pessoais.
+   Sou Bacharel em Sistemas de Informação e estou aprofundando meu conhecimento como Desenvolvedor Front-end. Minha jornada profissional tem sido marcada por desafios que encontro em comunidades de front-end e projetos pessoais.
 Minha motivação é impulsionada pela inovação e pela busca constante de aprimoramento. Assim, veja meu background:
 </p>
 
